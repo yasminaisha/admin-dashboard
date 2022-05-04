@@ -1,4 +1,5 @@
 import "./widgetLg.css"
+import React from 'react';
 
 export default function WidgetLg() {
 

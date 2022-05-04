@@ -1,3 +1,4 @@
+import React from 'react';
 import "./chart.css"
 import { LineChart, Line, XAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 

@@ -1,5 +1,6 @@
 import "./featuredinfo.css"
 import {ArrowDownward, ArrowUpward} from "@mui/icons-material"
+import React from 'react';
 
 export default function Featuredinfo() {
   return (

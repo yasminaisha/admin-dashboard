@@ -1,5 +1,6 @@
 import "./sidebar.css"
 import {LineStyle, Timeline, TrendingUp, PersonOutline, Storefront, AttachMoney, BarChartOutlined, MailOutlined, DynamicFeedOutlined, ChatBubbleOutlineOutlined, WorkOutline, Report} from "@mui/icons-material";
+import React from 'react';
 
 export default function Sidebar() {
   return (
