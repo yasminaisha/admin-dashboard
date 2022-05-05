@@ -40,8 +40,16 @@ export default function NewUser() {
             <input type="radio" name="gender" id="other" value="other"/>
             <label for="other">Other</label>
           </div>
-          </div>
+        </div>
+        <div className="newUserItem">
+          <label>Active</label>
+          <select className="newUserSelect" name="actice" id="active">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+          </select>
+        </div>
+        <button className="newUserButton">Create</button>
         </form>
     </div>
-  )
+  );
 }
