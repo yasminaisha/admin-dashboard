@@ -20,7 +20,7 @@
     font-size: 16px;
 }
 
-.usercontainer{
+.userContainer{
     display: flex;
     margin-top: 20px;
 }
@@ -72,7 +72,7 @@
 }
 
 .userShowTitle{
-    font: 14px;
+    font-size: 14px;
     font-weight: 600;
     color: rgb(178, 173, 173);
 }
@@ -84,7 +84,7 @@
     color: #444;
 }
 
-.serShowIcon{
+.userShowIcon{
     font-size: 16px !important;
 }
 
